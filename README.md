@@ -1,1 +1,2 @@
 # yoyo
+<play=<.x>
